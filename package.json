@@ -1,5 +1,6 @@
 {
-  "name": "ui-icons",
+  "name": "@toujou/ui-icons",
+  "private": true,
   "version": "0.0.1",
   "description": "Icon sets for toujou",
   "main": "index.js",
@@ -14,7 +15,7 @@
     "ui"
   ],
   "author": "toujou",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/toujou/ui-icons/issues"
   },
