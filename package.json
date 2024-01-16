@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Icon sets for toujou",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {},
   "repository": {
     "type": "git",
