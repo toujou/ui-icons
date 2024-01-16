@@ -1,6 +1,5 @@
 {
   "name": "@toujou/ui-icons",
-  "private": true,
   "version": "0.0.1",
   "description": "Icon sets for toujou",
   "main": "index.js",
