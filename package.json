@@ -1,6 +1,6 @@
 {
   "name": "@toujou/ui-icons",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Icon sets for toujou",
   "main": "index.js",
   "publishConfig": {
